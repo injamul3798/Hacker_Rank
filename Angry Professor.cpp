@@ -1,3 +1,6 @@
+//Injamul Haque
+//BSc in CSE,DIU
+
 #include <iostream>
 using namespace std;
 int main()
@@ -32,4 +35,4 @@ int main()
         cout<<((count >= k) ? "NO" : "YES")<<endl;
     }
     return 0;
-}
+} 
